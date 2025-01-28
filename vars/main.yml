@@ -1,0 +1,6 @@
+---
+# vars file for lighthouse-role
+lighthouse_git: "https://github.com/VKCOM/lighthouse"
+lighthouse_dir: "./lighthouse"
+lighthouse_home_dir: "/home/lesnykh/lighthouse"
+nginx_user: "root"
