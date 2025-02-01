@@ -25,7 +25,7 @@ Example Playbook
 - name: Install LightHouse
   hosts: servers
   roles:
-    - role: lighthouse-role
+    - lighthouse
 ```
 
 
